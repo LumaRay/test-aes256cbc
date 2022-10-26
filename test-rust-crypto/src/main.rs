@@ -9,7 +9,7 @@ use crypto::buffer::{ ReadBuffer, WriteBuffer, BufferResult };
 
 use rand::{ Rng, OsRng };
 
-const LOOPS_COUNT: u32 = 1000_000;
+const LOOPS_COUNT: u32 = 1_000_000;
 
 fn main() {
     let mut message: [u8; 1024] = [0; 1024]; //"Hello World!";

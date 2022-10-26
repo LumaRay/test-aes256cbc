@@ -23,3 +23,4 @@ You can find links to the algorithms' web pages in the first comments of the cor
 | Language | Author  | Time, ms  |
 |:-------:|:---------:|:---------:|
 |  rust  | DaGenix   | 3771/2795 |
+|  rust  | RustCrypto   | 2046/960 |
